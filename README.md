@@ -7,11 +7,11 @@ cc: http://www.koeri.boun.edu.tr/scripts/lst8.asp
 
 ## required libraries
 
-'''
+```
 pip install pandas
 pip install folium
 pip install bs4
-'''
+```
 
 output sample:
 
